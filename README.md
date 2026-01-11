@@ -1,7 +1,7 @@
 # About This Project
 Firstly, I would like to note that this program does not claim profitablility. It was developed to pair with an independent research paper I was working on that disscussed the relationship between the implied volatility before and after earnings announcements while considering potential risk factors from additional exposures to the underlying asset.
 
-CLICK HERE TO READ PAPER (will link once I devlop a website)
+[CLICK HERE TO READ PAPER](https://github.com/AirWard1234/IV-Crush-Analysis-Dashboard/blob/main/IV%20Crush%20research%20paper.pdf)
 
 With that aside, we can get into initializing the project!
 
